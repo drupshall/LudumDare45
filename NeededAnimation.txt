@@ -1,0 +1,15 @@
+needed sprites/animation:
+	player:
+		swimming
+		idle
+		steering (on the raft)
+
+	items:
+		floating
+		sailing (raft)
+		sinking
+		fish swimming
+
+	miscellaneous:
+		bubbles poping
+		

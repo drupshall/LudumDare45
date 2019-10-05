@@ -1,0 +1,26 @@
+Collectibles:
+Consumables:
+	water bottle
+	can of food
+	fish
+
+	
+Building ressources:
+	wooden log
+	wooden stick
+	piece of cloth
+	ropes
+	plastic containers
+	fishing net
+	
+	
+Wearables:
+	hat
+	gloves
+	jeans/trousers
+	jacket
+	shirt
+
+Item behavior:
+	Items are generated using spawners. They get spawned depending on how much one as swim in a certain direction (randomized). They stay for a limited amount of time and distance. If the player is going in circles items will eventually spawn in every directions however they will depop after a certain time; if the player swims straight in one direction items will spawn in less directions and will only float as long as the player is near them (out of sight though).
+	
